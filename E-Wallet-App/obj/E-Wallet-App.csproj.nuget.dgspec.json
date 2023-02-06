@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App\\E-Wallet-App.csproj": {}
+    "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App\\E-Wallet-App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj": {
+    "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj",
         "projectName": "E-Wallet-App.Core",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Core\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj"
+              "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj"
               }
             }
           }
@@ -94,21 +89,17 @@
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj": {
+    "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj",
         "projectName": "E-Wallet-App.Domain",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Domain\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,15 +107,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj"
+              "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj"
               }
             }
           }
@@ -174,21 +164,17 @@
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj": {
+    "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj",
         "projectName": "E-Wallet-App.Entity",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Entity\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -196,7 +182,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -240,21 +225,17 @@
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App\\E-Wallet-App.csproj": {
+    "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App\\E-Wallet-App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App\\E-Wallet-App.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App\\E-Wallet-App.csproj",
         "projectName": "E-Wallet-App",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App\\E-Wallet-App.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App\\E-Wallet-App.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -262,24 +243,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj"
+              "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj"
               },
-              "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj"
+              "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj"
               },
-              "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\EmailService\\EmailService.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\EmailService\\EmailService.csproj"
+              "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\EmailService\\EmailService.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\EmailService\\EmailService.csproj"
               },
-              "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\Repository\\Repository.csproj"
+              "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\Repository\\Repository.csproj"
               }
             }
           }
@@ -350,21 +330,17 @@
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\EmailService\\EmailService.csproj": {
+    "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\EmailService\\EmailService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\EmailService\\EmailService.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\EmailService\\EmailService.csproj",
         "projectName": "EmailService",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\EmailService\\EmailService.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\EmailService\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\EmailService\\EmailService.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\EmailService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -372,15 +348,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj"
+              "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj"
               }
             }
           }
@@ -428,21 +403,17 @@
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\Repository\\Repository.csproj": {
+    "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -450,21 +421,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj"
+              "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Core\\E-Wallet-App.Core.csproj"
               },
-              "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj"
+              "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Domain\\E-Wallet-App.Domain.csproj"
               },
-              "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\E-Wallet-App\\E-Wallet-Application-API\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj"
+              "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj"
               }
             }
           }
