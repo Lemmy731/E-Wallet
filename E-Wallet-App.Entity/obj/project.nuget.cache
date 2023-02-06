@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bu8GihuoSlMDIdexfDFJ3QkO4pLId4s0KSkgiHRvrvmfobbT4EIXWI8tuQCfoOhb/+b2x8y9NhoH/fg+29YnLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\week-9-10-grp-g\\E-Wallet-App.Entity\\E-Wallet-App.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
